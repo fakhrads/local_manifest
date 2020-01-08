@@ -3,7 +3,7 @@
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="lineage-16.0" />
 
-  <project name="ferrari-dev/android_device_xiaomi_ferrari" path="device/xiaomi/ferrari" remote="github" revision="lineage-16.0" />
-  <project name="ferrari-dev/msm-3.10" path="kernel/xiaomi/ferrari" remote="github" revision="lineage-16.0" />
-  <project name="ferrari-dev/proprietary_vendor_xiaomi_ferrari" path="vendor/xiaomi/ferrari" remote="github" revision="lineage-16.0" />
+  <project name="fakhrads/android_device_xiaomi_ferrari" path="device/xiaomi/ferrari" remote="github" revision="lineage-16.0" />
+  <project name="fakhrads/msm-3.10" path="kernel/xiaomi/ferrari" remote="github" revision="lineage-16.0" />
+  <project name="fakhrads/proprietary_vendor_xiaomi_ferrari" path="vendor/xiaomi/ferrari" remote="github" revision="lineage-16.0" />
 </manifest>
